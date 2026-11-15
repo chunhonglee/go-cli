@@ -1,1 +1,1 @@
-# lolcat
+# go-cli
